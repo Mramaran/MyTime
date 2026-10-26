@@ -1,0 +1,7 @@
+* text=auto
+# Bundled data is read by byte offset (assets/lawnicons/index.tsv), so it must never be converted.
+app/src/main/assets/** -text
+*.ttf binary
+*.jar binary
+gradlew text eol=lf
+*.bat text eol=crlf
