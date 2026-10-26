@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTime</string>
+    <string name="lock_service_label">MyTime screen lock</string>
+    <string name="lock_service_description">Lets MyTime turn off the screen when you double-tap the alphabet. It reads no screen content and collects no data.</string>
+</resources>
