@@ -53,3 +53,7 @@ A release build needs your own signing key: create `keystore.properties` in the 
 The licence texts for the bundled icons and fonts are in `app/src/main/assets/licenses/` and inside the app under Themes → Open-source licences.
 
 MyTime is inspired by Niagara Launcher and is not affiliated with it. It contains none of Niagara's code, icons or wallpapers.
+
+## Licence
+
+MyTime's own code is released under the [MIT License](LICENSE). The bundled Lawnicons (Apache 2.0) and Google Fonts (SIL OFL 1.1) keep their own licences, included in `app/src/main/assets/licenses/`.
